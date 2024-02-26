@@ -5,3 +5,5 @@ Cobblemon Myths and Legends spawn file for Cobblemon FC server
 
 1. 스폰 확률 및 조건을 공유한다.
 2. 스폰 확률 및 조건을 수정할 때 협업할 수 있도록 만들었다.
+
+확률과 가중치를 각각 `ultra-rare`와 `0.1`로 일괄적으로 설정했다.
