@@ -1,0 +1,49 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "deoxys-1",
+        "pokemon": "deoxys",
+        "presets": [
+          "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "common",
+        "level": "75",
+        "weight": 0.1,
+        "condition": {
+          "canSeeSky": false,
+          "biomes": [
+            "minecraft:the_end",
+            "minecraft:end_barrens",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands"
+          ],
+		  "key_item": "aurora_ticket"
+        }
+      },
+      {
+        "id": "deoxys-2",
+        "pokemon": "deoxys",
+        "presets": [
+          "natural"
+        ],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "common",
+        "level": "75",
+        "weight": 10.0,
+        "condition": {
+          "canSeeSky": false,
+          "biomes": [
+            "#minecraft:is_end"
+          ],
+          "key_item": "aurora_ticket"
+        }
+      }
+    ]
+  }
