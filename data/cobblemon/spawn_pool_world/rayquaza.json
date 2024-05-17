@@ -4,11 +4,11 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "rayquaza-1",
+      "id": "mythsandlegends-rayquaza-1",
       "pokemon": "rayquaza",
-	  "presets": [
+      "presets": [
         "natural"
-           ],
+      ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
@@ -23,11 +23,11 @@
           "terralith:skylands_winter",
           "minecraft:jungle"
         ],
-		"key_item": "jade_orb"
+        "key_item": "jade_orb"
       }
     },
     {
-      "id": "rayquaza-2",
+      "id": "mythsandlegends-rayquaza-2",
       "pokemon": "rayquaza",
       "presets": [
         "natural"

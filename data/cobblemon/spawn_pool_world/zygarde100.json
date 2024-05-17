@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "zygarde-1",
+      "id": "mythsandlegends-zygarde-1",
       "pokemon": "zygarde",
       "presets": [
         "natural"
@@ -27,7 +27,7 @@
       }
     },
     {
-      "id": "zygarde-2",
+      "id": "mythsandlegends-zygarde-2",
       "pokemon": "zygarde",
       "presets": [
         "natural"

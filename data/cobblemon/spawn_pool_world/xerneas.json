@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "xerneas-1",
+      "id": "mythsandlegends-xerneas-1",
       "pokemon": "xerneas",
       "presets": [
         "natural"
@@ -25,7 +25,7 @@
       }
     },
     {
-      "id": "xerneas-2",
+      "id": "mythsandlegends-xerneas-2",
       "pokemon": "xerneas",
       "presets": [
         "natural"

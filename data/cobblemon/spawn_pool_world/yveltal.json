@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "yveltal-1",
+      "id": "mythsandlegends-yveltal-1",
       "pokemon": "yveltal",
       "presets": [
         "natural"
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "yveltal-2",
+      "id": "mythsandlegends-yveltal-2",
       "pokemon": "yveltal",
       "presets": [
         "natural"

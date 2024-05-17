@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mewtwo-1",
+      "id": "mythsandlegends-mewtwo-1",
       "pokemon": "mewtwo",
       "presets": [
         "natural"
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "mewtwo-2",
+      "id": "mythsandlegends-mewtwo-2",
       "pokemon": "mewtwo",
       "presets": [
         "natural"

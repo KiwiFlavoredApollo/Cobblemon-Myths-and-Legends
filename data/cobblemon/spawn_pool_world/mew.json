@@ -1,10 +1,10 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
+  "enabled": true,
+  "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mew-1",
+      "id": "mythsandlegends-mew-1",
       "pokemon": "mew",
       "presets": [
         "natural"
@@ -21,10 +21,10 @@
           "minecraft:jungle"
         ],
         "key_item": "old_sea_map"
-           }
-       },
+      }
+    },
     {
-      "id": "mew-2",
+      "id": "mythsandlegends-mew-2",
       "pokemon": "mew",
       "presets": [
         "natural"
@@ -43,5 +43,5 @@
         "key_item": "old_sea_map"
       }
     }
-   ]
+  ]
 }
