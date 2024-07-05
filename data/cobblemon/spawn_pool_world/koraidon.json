@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "68-72",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "minecraft:badlands",
                     "minecraft:eroded_badlands",
@@ -35,9 +34,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "68-.72",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_savanna",
                     "#cobblemon:is_plateau",

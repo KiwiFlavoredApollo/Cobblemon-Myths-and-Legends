@@ -13,7 +13,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "68-72",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
                 "biomes": [
                     "minecraft:windswept_gravelly_hills",
@@ -32,7 +32,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "68-72",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_deep_dark"

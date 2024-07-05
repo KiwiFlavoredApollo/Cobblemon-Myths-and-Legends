@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "40-50",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": false,
                 "biomes": [
                     "minecraft:dark_forest",
                     "minecraft:swamp"
@@ -33,9 +32,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "40-50",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": false,
                 "biomes": [
                     "#cobblemon:is_spooky",
                     "#cobblemon:is_dark",

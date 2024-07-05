@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "50-60",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "minecraft:frozen_ocean",
                     "minecraft:frozen_peaks",
@@ -39,9 +38,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "50-60",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_cold",
                     "#cobblemon:is_freezing",

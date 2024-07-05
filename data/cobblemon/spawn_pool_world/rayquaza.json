@@ -13,15 +13,15 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "50-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "terralith:skylands_autumn",
                     "terralith:skylands_spring",
                     "terralith:skylands_summer",
                     "terralith:skylands_winter",
-                    "minecraft:jungle"
+                    "#cobblemon:is_jungle",
+                    "#minecraft:is_jungle"
                 ],
                 "key_item": "jade_orb"
             }
@@ -36,13 +36,15 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "50-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_sky",
                     "#cobblemon:is_highlands",
                     "minecraft:end_highlands",
-                    "minecraft:jungle"
+                    "#minecraft:is_end",
+                    "#cobblemon:is_jungle",
+                    "#minecraft:is_jungle"
                 ],
                 "key_item": "jade_orb"
             }

@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "5-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "minecraft:mushroom_fields",
                     "minecraft:windswept_gravelly_hills"
@@ -33,9 +32,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "5-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_magical",
                     "#cobblemon:is_sparse"

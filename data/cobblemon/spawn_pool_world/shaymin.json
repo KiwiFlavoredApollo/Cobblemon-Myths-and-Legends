@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "minecraft:sunflower_plains",
                     "minecraft:flower_forest",
@@ -42,9 +41,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": false,
                 "biomes": [
                     "#cobblemon:is_lush"
                 ],

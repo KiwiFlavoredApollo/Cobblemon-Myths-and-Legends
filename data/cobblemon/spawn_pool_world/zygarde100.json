@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "minecraft:birch_forest",
                     "minecraft:forest",
@@ -36,9 +35,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_forest",
                     "#cobblemon:is_cave",

@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "47-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": false,
                 "biomes": [
                     "minecraft:soul_sand_valley",
                     "minecraft:the_end"
@@ -33,9 +32,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "47-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": false,
                 "biomes": [
                     "#minecraft:is_nether",
                     "#cobblemon:is_spooky",

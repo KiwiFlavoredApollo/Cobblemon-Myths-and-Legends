@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "75",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": false,
                 "biomes": [
                     "minecraft:the_end",
                     "minecraft:end_barrens",
@@ -36,9 +35,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "75",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": false,
                 "biomes": [
                     "#minecraft:is_end"
                 ],

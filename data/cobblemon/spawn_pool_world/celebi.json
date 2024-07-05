@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "30-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "minecraft:birch_forest",
                     "minecraft:dark_forest",
@@ -42,7 +41,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "30-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_forest",

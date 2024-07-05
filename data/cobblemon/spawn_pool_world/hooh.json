@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "40-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "minecraft:meadow",
                     "minecraft:sunflower_plains",
@@ -34,9 +33,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "40-70",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_sky",
                     "#minecraft:sunflower_plains",

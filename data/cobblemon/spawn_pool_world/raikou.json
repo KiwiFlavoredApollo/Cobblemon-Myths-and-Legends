@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "50-60",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "minecraft:plains",
                     "minecraft:savanna",
@@ -35,9 +34,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "50-60",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_plains",
                     "#cobblemon:is_grassland",

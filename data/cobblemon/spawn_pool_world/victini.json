@@ -13,9 +13,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "70-100",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "minecraft:badlands",
                     "minecraft:eroded_badlands",
@@ -34,9 +33,8 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "70-100",
-            "weight": 9.0,
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_volcanic",
                     "#cobblemon:is_thermal",
